@@ -67,7 +67,7 @@ public class MyThread {
 //        System.out.println(Arrays.toString(defaultArr));
         MyThread thread2 = new MyThread();
         float[] coolArr = thread2.makeCoolArr();
-        System.out.println(Arrays.toString(coolArr));
+//        System.out.println(Arrays.toString(coolArr));
     }
 
 
