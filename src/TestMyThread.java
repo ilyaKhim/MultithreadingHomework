@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class TestMyThread {
-    static final int SIZE = 1_0;
+    static final int SIZE = 1_000_000;
     float[] arr = new float[SIZE];
     public static int hello(){
         System.out.println("На сколько частей будем дробить массив? Введите четное число!");
